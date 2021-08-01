@@ -6,14 +6,14 @@ Repository of exercises from the [Full Stack Open course](https://fullstackopen.
 
 ### Part 0 Fundamentals of Web Apps:
 
-- [] Fundamentals of Web Apps
-  - [] 0.4 New Note
-  - [] 0.5 SPA
-  - [] 0.6 SPA New Note
+- Fundamentals of Web Apps
+  - 0.4 New Note
+  - 0.5 SPA
+  - 0.6 SPA New Note
 
 ### Part 1 Introduction to React:
 //todo
-/*
+<!---
 - [x] Intro to React | [courseinfo repo](./part1/courseinfo)
   - [x] 1.1
   - [x] 1.2
@@ -31,7 +31,7 @@ Repository of exercises from the [Full Stack Open course](https://fullstackopen.
   - [x] 1.12 | [anecdotes repo](./part1/anecdotes)
   - [x] 1.13
   - [x] 1.14
-*/
+-->
 ### Part 2 Communicating with server
 
 //todo
