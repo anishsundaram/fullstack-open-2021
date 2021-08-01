@@ -1,17 +1,15 @@
- Fullstack Open 2020
+# Fullstack Open 2021
 
-Repository of exercises from the [Full Stack Open course](https://fullstackopen.com/en/) offered through the University of Helsinki.
+Repository of my solutions to the excercises from the [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) course hosted by the University of Helsinki.
 
-## Completion Status
-
-### Part 0 Fundamentals of Web Apps:
+## Part 0 Fundamentals of Web Apps:
 
 - Fundamentals of Web Apps
   - 0.4 New Note
   - 0.5 SPA
   - 0.6 SPA New Note
 
-### Part 1 Introduction to React:
+## Part 1 Introduction to React:
 //todo
 <!---
 - [x] Intro to React | [courseinfo repo](./part1/courseinfo)
@@ -32,10 +30,12 @@ Repository of exercises from the [Full Stack Open course](https://fullstackopen.
   - [x] 1.13
   - [x] 1.14
 -->
-### Part 2 Communicating with server
+<!--
+## Part 2 Communicating with server
 
 //todo
 
-### Part 3 Programming a server with NodeJS and Express
+## Part 3 Programming a server with NodeJS and Express
 
 //todo
+-->
