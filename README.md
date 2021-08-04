@@ -5,9 +5,9 @@ Repository of my solutions to the excercises from the [Deep Dive Into Modern Web
 ## Part 0 Fundamentals of Web Apps:
 
 - Fundamentals of Web Apps
-  - 0.4 New Note
-  - 0.5 SPA
-  - 0.6 SPA New Note
+  - [x]0.4 New Note
+  - [x]0.5 SPA
+  - [x]0.6 SPA New Note
 
 ## Part 1 Introduction to React:
 //todo
