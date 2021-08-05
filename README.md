@@ -6,8 +6,8 @@ Repository of my solutions to the excercises from the [Deep Dive Into Modern Web
 
 - Fundamentals of Web Apps
   - [x]0.4 New Note
-  - [x]0.5 SPA
-  - [x]0.6 SPA New Note
+  - [x]0.5 Single page App
+  - [x]0.6 Single Page App New note
 
 ## Part 1 Introduction to React:
 //todo
